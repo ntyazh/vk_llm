@@ -5,4 +5,5 @@ This project was created as a final task for [summer school FCS and VK education
 ## Team
 
 Marin Gennadiy HSE AMI 3rd year ([github](https://github.com/gennadiymarin))
+
 Natalia Tiazhova  HSE AMI 3rd year ([github](https://github.com/ntyazh))
